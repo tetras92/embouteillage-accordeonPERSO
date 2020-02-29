@@ -26,6 +26,4 @@ Résumé de quelques lignes présentant l'objectif de votre projet, la méthode 
 
 Un titre et un résumé en anglais qui reprennent le titre et le résumé en français, mais en anglais pour attirer une audience internationale sur vos travaux !
 
-## Lien vers page de blog :
-
-## Bibliographie :
+## Lien vers page de votre site :
