@@ -1,29 +1,16 @@
-# Nom du projet
+# Mise en place de votre page Github Pages (https://pages.github.com/)
 
-Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
+1) Vous rendre dans **Settings** puis descendre jusqu'à **GitHub Pages**
 
-## Présentation de l'équipe
+![enter image description here](https://pages.github.com/images/repo-settings@2x.png)
+![enter image description here](https://pages.github.com/images/launch-theme-chooser@2x.png)
 
-|(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
-|-----|--|--|--|
-| P. Bismuth| J. Doe | A. Onyme  | N. Nescio  |
+2) Choisir un template pour votre site dans **Choose a theme**
 
+![enter image description here](https://pages.github.com/images/theme-chooser@2x.png)
 
-## Description du projet
+Votre site sera accessible à l'adresse : NomDeLOrganisation.github.io/NomDuRepertoire
 
-**Problématique :** 
+3. Créer des fichiers index.md et blog.md, sur la base de ceux présents dans le répertoire.
 
-**Hypothèse principale :**
-
-**Hypothèses secondaires :** 
-
-**Objectifs :**
-
-**Critère(s) d'évaluation :**
-
-
-## English version
-
-Un titre et un résumé en anglais qui reprennent le titre et le résumé en français, mais en anglais pour attirer une audience internationale sur vos travaux !
-
-## Lien vers page de votre site :
+**Documentation complète :** https://help.github.com/en/github/working-with-github-pages
