@@ -1,3 +1,9 @@
+---
+title: Page principale
+layout: template
+filename: index.md
+--- 
+
 # Nom du projet
 
 Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
