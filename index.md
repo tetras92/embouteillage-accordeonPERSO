@@ -1,6 +1,5 @@
 ---
 title: Page principale
-layout: template
 filename: index.md
 --- 
 
