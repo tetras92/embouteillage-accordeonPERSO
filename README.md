@@ -13,4 +13,6 @@ Votre site sera accessible à l'adresse : NomDeLOrganisation.github.io/NomDuRepe
 
 3. Créer des fichiers index.md et blog.md, sur la base de ceux présents dans ce répertoire.
 
+4. Créer un dossier src dans lequel vous rangerez vos codes (python, notebooks, ...)
+
 **Documentation complète :** https://help.github.com/en/github/working-with-github-pages
