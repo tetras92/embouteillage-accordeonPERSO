@@ -12,9 +12,13 @@ Résumé de quelques lignes présentant l'objectif de votre projet, la méthode 
 ## Description du projet
 
 **Problématique :** 
+
 **Hypothèse principale :**
+
 **Hypothèses secondaires :** 
+
 **Objectifs :**
+
 **Critère(s) d'évaluation :**
 
 
