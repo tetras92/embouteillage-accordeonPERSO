@@ -1,8 +1,11 @@
 # Mise en place de votre page Github Pages (https://pages.github.com/)
 
-1) Vous rendre dans **Settings** puis descendre jusqu'à **GitHub Pages**
+1) Vous rendre dans **Settings** ...
 
 ![enter image description here](https://pages.github.com/images/repo-settings@2x.png)
+
+... puis descendre jusqu'à **GitHub Pages**
+
 ![enter image description here](https://pages.github.com/images/launch-theme-chooser@2x.png)
 
 2) Choisir un template pour votre site dans **Choose a theme**
