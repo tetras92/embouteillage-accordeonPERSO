@@ -30,4 +30,4 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 ## Bibliographie :
 
-Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. <= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)
+Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
