@@ -1,4 +1,4 @@
-## Mise en place de votre page Github Pages (https://pages.github.com/)
+## Mise en place de votre page Github Pages (images de https://pages.github.com/)
 
 **1.** Vous rendre dans **Settings** ...
 
