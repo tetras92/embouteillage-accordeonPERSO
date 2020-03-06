@@ -2,6 +2,10 @@
 
 Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
 
+## English version
+
+Un titre et un résumé en anglais qui reprennent le titre et le résumé en français, mais en anglais pour attirer une audience internationale sur vos travaux !
+
 ## Présentation de l'équipe
 
 |(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
@@ -9,7 +13,7 @@ Résumé de quelques lignes présentant l'objectif de votre projet, la méthode 
 | P. Bismuth| J. Doe | A. Onyme  | N. Nescio  |
 
 
-## Description du projet
+## Description synthétique du projet
 
 **Problématique :** 
 
@@ -21,10 +25,10 @@ Résumé de quelques lignes présentant l'objectif de votre projet, la méthode 
 
 **Critère(s) d'évaluation :**
 
+## Présentation structurée des résultats
 
-## English version
-
-Un titre et un résumé en anglais qui reprennent le titre et le résumé en français, mais en anglais pour attirer une audience internationale sur vos travaux !
+Présentation des outils, des résultats (tableaux, courbes, animations...), du code.
++ analyse critique
 
 ## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
 
